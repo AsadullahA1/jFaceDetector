@@ -23,7 +23,6 @@ It is designed as a **simple, user-friendly desktop tool** for learning and demo
 - **Java Swing / JavaFX** (for desktop UI)
 - **OpenCV** (for face detection)
 - **Haar Cascade Classifier**
-- **Maven / Gradle** (optional, for dependency management)
 
 ---
 
@@ -35,5 +34,3 @@ It is designed as a **simple, user-friendly desktop tool** for learning and demo
 5. The final image is displayed on the screen.
 
 ---
-
-## 📂 Project Structure
